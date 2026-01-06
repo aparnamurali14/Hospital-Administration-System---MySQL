@@ -26,7 +26,6 @@ The project is designed as a **Junior SQL Developer portfolio project** and demo
 ## 🗂️ Project Structure
 
 Hospital-Administration-System-MySQL/
-│
 ├── database/
 │   ├── 01_database_creation.sql
 │   ├── 02_table_design.sql
