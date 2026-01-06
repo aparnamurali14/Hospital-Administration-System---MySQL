@@ -27,8 +27,6 @@ The project is designed as a **Junior SQL Developer portfolio project** and demo
 
 Hospital-Administration-System-MySQL/
 ├── database/
-|
-|
 │   ├── 01_database_creation.sql
 │   ├── 02_table_design.sql
 │   └── 03_data_import.sql
