@@ -25,6 +25,8 @@ The project is designed as a **Junior SQL Developer portfolio project** and demo
 
 ## 🗂️ Project Structure
 
+```text
+
 Hospital-Administration-System-MySQL/
 ├── database/
 │   ├── 01_database_creation.sql
@@ -39,6 +41,7 @@ Hospital-Administration-System-MySQL/
 └── sample-data/
     └── hospital_dataset.xlsx
 
+```
 
 ---
 
